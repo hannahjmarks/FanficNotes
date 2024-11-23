@@ -1,0 +1,401 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "Ab_qo0z7Flvs-CHKXgjeF",
+      "name": "Characters",
+      "value": "#00b36e"
+    },
+    {
+      "id": "Lx92HuwFKuI-C9rfrOkg_",
+      "name": "Locations",
+      "value": "#006eff"
+    },
+    {
+      "id": "FXJuZWYan0dT3bz_6mnUN",
+      "name": "Events",
+      "value": "#ffae00"
+    },
+    {
+      "id": "MT_58C_gU0y4bHNCLnqSm",
+      "name": "Business",
+      "value": "#9900ff"
+    },
+    {
+      "id": "ypyRR9Op8t8NPIyY6b_60",
+      "name": "Magic Systems",
+      "value": "#ff00dd"
+    },
+    {
+      "id": "UDQmQITHEonR1igb8tieY",
+      "name": "World Systems",
+      "value": "#00ffd5"
+    },
+    {
+      "id": "f8nXOevd-nkE2wjjtOtB5",
+      "name": "Timelines",
+      "value": "#ff0000"
+    },
+    {
+      "id": "sAt_o7gbeXADtEje7CpN4",
+      "name": "Curriculums",
+      "value": "#ffea00"
+    },
+    {
+      "id": "l9ya1xB4rWsh9jSwJ1ned",
+      "name": "Hogwarts",
+      "value": "#59ff00"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Characters",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Adrian Pucey.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Antonius Avery.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Belial Avery.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Calliope Green.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Cedric Diggory.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Constantin Pucey.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Cressida Avery.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Erik Rowle.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Fred Weasley.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Business/The Avery Catalogue.md",
+      "color": "MT_58C_gU0y4bHNCLnqSm"
+    },
+    {
+      "path": "Business",
+      "color": "MT_58C_gU0y4bHNCLnqSm"
+    },
+    {
+      "path": "Characters/George Weasley.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Ginny Weasley.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Gremory Avery.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Hermione Granger.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Inga Avery (née Rowle).md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Josephina Avery (née Flint).md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Leviathan Avery.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Lord Voldemort.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Lucius Malfoy.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Weekey.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Viktor Krum.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Vephar Avery.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Torsten Rowle.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Thorfinn Rowle.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Sarah Crowley.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Rycher Avery.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Percy Weasley.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Nymphadora Tonks.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Penelope Clearwater.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Locations",
+      "color": "Lx92HuwFKuI-C9rfrOkg_"
+    },
+    {
+      "path": "Locations/Pasted image 20240624152454.png",
+      "color": "Lx92HuwFKuI-C9rfrOkg_"
+    },
+    {
+      "path": "Locations/The Atelier.md",
+      "color": "Lx92HuwFKuI-C9rfrOkg_"
+    },
+    {
+      "path": "Magic Systems",
+      "color": "ypyRR9Op8t8NPIyY6b_60"
+    },
+    {
+      "path": "Magic Systems/Magical Core.md",
+      "color": "ypyRR9Op8t8NPIyY6b_60"
+    },
+    {
+      "path": "Magic Systems/Soulmates.md",
+      "color": "ypyRR9Op8t8NPIyY6b_60"
+    },
+    {
+      "path": "Magic Systems/The Trace.md",
+      "color": "ypyRR9Op8t8NPIyY6b_60"
+    },
+    {
+      "path": "Pre Hogwarts",
+      "color": "f8nXOevd-nkE2wjjtOtB5"
+    },
+    {
+      "path": "Pre Hogwarts/Dantalion's Exorcism.md",
+      "color": "FXJuZWYan0dT3bz_6mnUN"
+    },
+    {
+      "path": "Pre Hogwarts/Dantalion's Possession.md",
+      "color": "FXJuZWYan0dT3bz_6mnUN"
+    },
+    {
+      "path": "Pre Hogwarts/First Wizarding War.md",
+      "color": "FXJuZWYan0dT3bz_6mnUN"
+    },
+    {
+      "path": "Pre Hogwarts/Leviathan's Murder.md",
+      "color": "FXJuZWYan0dT3bz_6mnUN"
+    },
+    {
+      "path": "Pre Hogwarts/Pre Hogwarts Timeline.md",
+      "color": "f8nXOevd-nkE2wjjtOtB5"
+    },
+    {
+      "path": "Pre Hogwarts/Sarah's True intentions.md",
+      "color": "FXJuZWYan0dT3bz_6mnUN"
+    },
+    {
+      "path": "Pre Hogwarts/Torsten Rowle's Plot.md",
+      "color": "FXJuZWYan0dT3bz_6mnUN"
+    },
+    {
+      "path": "Pre Hogwarts/Voldemort's Defeat.md",
+      "color": "FXJuZWYan0dT3bz_6mnUN"
+    },
+    {
+      "path": "World Systems",
+      "color": "UDQmQITHEonR1igb8tieY"
+    },
+    {
+      "path": "World Systems/Emancipation.md",
+      "color": "UDQmQITHEonR1igb8tieY"
+    },
+    {
+      "path": "World Systems/Household Expenses.md",
+      "color": "UDQmQITHEonR1igb8tieY"
+    },
+    {
+      "path": "World Systems/Magical Patenting.md",
+      "color": "UDQmQITHEonR1igb8tieY"
+    },
+    {
+      "path": "World Systems/Money.md",
+      "color": "UDQmQITHEonR1igb8tieY"
+    },
+    {
+      "path": "World Systems/N.E.W.Ts.md",
+      "color": "UDQmQITHEonR1igb8tieY"
+    },
+    {
+      "path": "World Systems/O.W.Ls.md",
+      "color": "UDQmQITHEonR1igb8tieY"
+    },
+    {
+      "path": "World Systems/The Ministry of Magic.md",
+      "color": "UDQmQITHEonR1igb8tieY"
+    },
+    {
+      "path": "World Systems/The Special Development Agreement.md",
+      "color": "UDQmQITHEonR1igb8tieY"
+    },
+    {
+      "path": "Hogwarts",
+      "color": "l9ya1xB4rWsh9jSwJ1ned"
+    },
+    {
+      "path": "Hogwarts/Gryffindor.md",
+      "color": "l9ya1xB4rWsh9jSwJ1ned"
+    },
+    {
+      "path": "Hogwarts/Hogwarts Express.md",
+      "color": "l9ya1xB4rWsh9jSwJ1ned"
+    },
+    {
+      "path": "Hogwarts/Hogwarts School for Witchcraft and Wizardry.md",
+      "color": "l9ya1xB4rWsh9jSwJ1ned"
+    },
+    {
+      "path": "Hogwarts/Hufflepuff.md",
+      "color": "l9ya1xB4rWsh9jSwJ1ned"
+    },
+    {
+      "path": "Hogwarts/Ravenclaw.md",
+      "color": "l9ya1xB4rWsh9jSwJ1ned"
+    },
+    {
+      "path": "Hogwarts/Slytherin.md",
+      "color": "l9ya1xB4rWsh9jSwJ1ned"
+    },
+    {
+      "path": "1st Year/1st Year Curriculum.md",
+      "color": "sAt_o7gbeXADtEje7CpN4"
+    },
+    {
+      "path": "2nd Year/2nd Year Curriculum.md",
+      "color": "sAt_o7gbeXADtEje7CpN4"
+    },
+    {
+      "path": "3rd Year/3rd Year Curriculum.md",
+      "color": "sAt_o7gbeXADtEje7CpN4"
+    },
+    {
+      "path": "4th Year/4th Year Curriculum.md",
+      "color": "sAt_o7gbeXADtEje7CpN4"
+    },
+    {
+      "path": "5th Year/5th Year Curriculum.md",
+      "color": "sAt_o7gbeXADtEje7CpN4"
+    },
+    {
+      "path": "6th Year/6th Year Curriculum.md",
+      "color": "sAt_o7gbeXADtEje7CpN4"
+    },
+    {
+      "path": "7th Year/7th Year Curriculum.md",
+      "color": "sAt_o7gbeXADtEje7CpN4"
+    },
+    {
+      "path": "1st Year",
+      "color": "f8nXOevd-nkE2wjjtOtB5"
+    },
+    {
+      "path": "2nd Year",
+      "color": "f8nXOevd-nkE2wjjtOtB5"
+    },
+    {
+      "path": "3rd Year",
+      "color": "f8nXOevd-nkE2wjjtOtB5"
+    },
+    {
+      "path": "4th Year",
+      "color": "f8nXOevd-nkE2wjjtOtB5"
+    },
+    {
+      "path": "5th Year",
+      "color": "f8nXOevd-nkE2wjjtOtB5"
+    },
+    {
+      "path": "6th Year",
+      "color": "f8nXOevd-nkE2wjjtOtB5"
+    },
+    {
+      "path": "7th Year",
+      "color": "f8nXOevd-nkE2wjjtOtB5"
+    },
+    {
+      "path": "1st Year/1st Year Timeline.md",
+      "color": "f8nXOevd-nkE2wjjtOtB5"
+    },
+    {
+      "path": "2nd Year/2nd Year Timeline.md",
+      "color": "f8nXOevd-nkE2wjjtOtB5"
+    },
+    {
+      "path": "3rd Year/3rd Year Timeline.md",
+      "color": "f8nXOevd-nkE2wjjtOtB5"
+    },
+    {
+      "path": "4th Year/4th Year Timeline.md",
+      "color": "f8nXOevd-nkE2wjjtOtB5"
+    },
+    {
+      "path": "5th Year/5th Year Timeline.md",
+      "color": "f8nXOevd-nkE2wjjtOtB5"
+    },
+    {
+      "path": "6th Year/6th Year Timeline.md",
+      "color": "f8nXOevd-nkE2wjjtOtB5"
+    },
+    {
+      "path": "7th Year/7th Year Timeline.md",
+      "color": "f8nXOevd-nkE2wjjtOtB5"
+    },
+    {
+      "path": "Pre Hogwarts/Pre Hogwarts Chronological Timeline.md",
+      "color": "f8nXOevd-nkE2wjjtOtB5"
+    },
+    {
+      "path": "Characters/Oswyn Avery.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Locations/Beauxbatons.md",
+      "color": "Lx92HuwFKuI-C9rfrOkg_"
+    }
+  ]
+}

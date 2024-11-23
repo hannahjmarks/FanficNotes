@@ -1,0 +1,1 @@
+#Alive #PureBlood #Wizard #NoSoulMark 
