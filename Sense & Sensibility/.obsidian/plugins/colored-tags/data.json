@@ -12,7 +12,9 @@
   "knownTags": {
     "Antagonnist": 1,
     "Protagonist": 2,
-    "Sense": 3
+    "Sense": 3,
+    "Dashwood": 4,
+    "Sensibility": 5
   },
   "_version": 3
 }
