@@ -1,0 +1,322 @@
+{
+  "main": {
+    "id": "7127c5dfb263f7f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e236fb845363a05b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ddbabbb8a649df8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Colonel Brandon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Colonel Brandon"
+            }
+          },
+          {
+            "id": "54b3eaa56f8b92ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ellenor Dashwood.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ellenor Dashwood"
+            }
+          },
+          {
+            "id": "03b5752159cac43e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marianne Dashwood.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marianne Dashwood"
+            }
+          },
+          {
+            "id": "d809fda5119f748c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Margaret Dashwood.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Margaret Dashwood"
+            }
+          },
+          {
+            "id": "8ec4d3ae13f1629d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Edward Ferrars.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Edward Ferrars"
+            }
+          },
+          {
+            "id": "4bcaab68a6345813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sir John Middleton.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sir John Middleton"
+            }
+          },
+          {
+            "id": "9f3cbb44b5eb97df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "John & Fanny Dashwood.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "John & Fanny Dashwood"
+            }
+          },
+          {
+            "id": "3c7bb95e2d8a00b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evelyn Dashwood.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Evelyn Dashwood"
+            }
+          },
+          {
+            "id": "62c66bc40abe6f0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ellenor Dashwood.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ellenor Dashwood"
+            }
+          },
+          {
+            "id": "fc99faeb3facad83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ellenor Dashwood.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ellenor Dashwood"
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "6565589b2b7bdfda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff458f7b940bbe33",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e90e361ba640712",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ba3afca54b65536",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f82636a9c4a2ed5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2f0bea57c1d6332e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1aebef8581836e44",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "004d3eeb0ad2db40",
+    "type": "split",
+    "children": [
+      {
+        "id": "f71b99f8e9662d8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17681db261fcf82a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "John Dashwood.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for John Dashwood"
+            }
+          },
+          {
+            "id": "541f723bda05fb3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "John Dashwood.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from John Dashwood"
+            }
+          },
+          {
+            "id": "5c20ddf6ac76a6ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7cb172c38c54515d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "John Dashwood.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of John Dashwood"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fc99faeb3facad83",
+  "lastOpenFiles": [
+    "Edward Ferrars.md",
+    "Ellenor Dashwood.md",
+    "Marianne Dashwood.md",
+    "Henry Dashwood.md",
+    "Mrs Dashwood - Mama.md",
+    "Evelyn Dashwood.md",
+    "Untitled",
+    "John & Fanny Dashwood.md",
+    "Sir John Middleton.md",
+    "Margaret Dashwood.md",
+    "Colonel Brandon.md"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "custom",
+    "custom": "ff6e6e-ff9e6e-ffd36e-f5ff6e-b4ff6e-6eff86-6effc3-78cbff-745eff-995eff-c15eff-f25eff-ff5eb4"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "Antagonnist": 1,
+    "Protagonist": 2,
+    "Sense": 3
+  },
+  "_version": 3
+}
