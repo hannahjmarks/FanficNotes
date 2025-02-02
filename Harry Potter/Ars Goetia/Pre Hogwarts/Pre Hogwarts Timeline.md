@@ -7,44 +7,44 @@
 	- [ ] *Death of [[Belial Avery]] - <mark style="background: #FF5582A6;">1974</mark>*
 		- [ ] *[[Leviathan Avery]] is now family head*
 - [ ] [[Dantalion's Possession]] - <mark style="background: #FFB86CA6;"> Mid November 1978</mark> <mark style="background: #FFB8EBA6;">Age 2</mark> ==1==
-	- [x] first glimpse of [[The Atelier]] ==1==
-	- [x] introduced to [[Vephar Avery]] and [[Inga Avery (née Rowle)]](not named) ==1==
-	- [x] find out about [[Sarah Crowley]]'s origins ==1==
-	- [x] [[Dantalion Avery]] is introduced ==1
+	- [ ] first glimpse of [[The Atelier]] ==1==
+	- [ ] introduced to [[Vephar Avery]] and [[Inga Avery (née Rowle)]](not named) ==1==
+	- [ ] find out about [[Sarah Crowley]]'s origins ==1==
+	- [ ] [[Dantalion Avery]] is introduced ==1
 - [ ]  <mark style="background: #FFF3A3A6;">1980</mark> 
 	- [ ] *[[Draco Malfoy]] is born - Leviathan is not happy about it* (5th June) <mark style="background: #FFB8EBA6;">Age 4</mark>
 	- [ ] *[[Harry Potter]] is born* (31st July) <mark style="background: #FFB8EBA6;">Age 3 </mark>
-- [x] [[Peaceful days]] - <mark style="background: #FFF3A3A6;">April 1981</mark> <mark style="background: #FFB8EBA6;">Age 4</mark> ==1, 2 & 3==
-	- [x] Explanation of Dani's increased mental development
-	- [x] Exploring Dani & Sarah's dynamic
-		- [x] First introduced to possession research ==1
-	- [x] We see [[The Atelier]] ==1==
-	- [x] First intentional magic
-		- [x] Manages a small flicker but doesn't know why she is struggling ==1
-	- [x] [[Josephina Avery (née Flint)]] and [[Weekey]] are introduced conceptually ==1==
-		- [x] Lessons are introduced conceptually ==1==
-	- [x] Dani & Sarah's nightmares are introduced ==2
-		- [x] Technically they are Sarah's but they both experience them ==2
-		- [x] Dani is always watching as a bystander
-	- [x] [[Leviathan Avery]] is introduced ==2==
-		- [x] Passed out drunk/hungover initially ==2
-		- [x] Dani leaves when he begins to wake ==2
-	- [x] [[Leviathan Avery]]'s parties are introduced ==2==
-	- [x] Josephina and Weekey are properly introduced ==2
-	- [x] Josephina's history lesson about [[Cressida Avery]] and the possible [[Male Veela]] in the Avery heritage
-	- [x] Further study on why Dani is struggling with intentional magic (wandless) ==2 & 3== <mark style="background: #CACFD9A6;">Time skip to link chapters</mark>
-		- [x] [[Dantalion's Ability]] is discovered  ==3==
-	- [x] Preparing to steal from Levi ==3
-		- [x] Dani realises that as Sarah has a [[Magical Core]] she isn't a spirit so this isn't a normal possession
-	- [x] Dani and Sarah switch places in the nightmare for an instant ==3
+- [ ] [[Peaceful days]] - <mark style="background: #FFF3A3A6;">April 1981</mark> <mark style="background: #FFB8EBA6;">Age 4</mark> ==1, 2 & 3==
+	- [ ] Explanation of Dani's increased mental development
+	- [ ] Exploring Dani & Sarah's dynamic
+		- [ ] First introduced to possession research ==1
+	- [ ] We see [[The Atelier]] ==1==
+	- [ ] First intentional magic
+		- [ ] Manages a small flicker but doesn't know why she is struggling ==1
+	- [ ] [[Josephina Avery (née Flint)]] and [[Weekey]] are introduced conceptually ==1==
+		- [ ] Lessons are introduced conceptually ==1==
+	- [ ] Dani & Sarah's nightmares are introduced ==2
+		- [ ] Technically they are Sarah's but they both experience them ==2
+		- [ ] Dani is always watching as a bystander
+	- [ ] [[Leviathan Avery]] is introduced ==2==
+		- [ ] Passed out drunk/hungover initially ==2
+		- [ ] Dani leaves when he begins to wake ==2
+	- [ ] [[Leviathan Avery]]'s parties are introduced ==2==
+	- [ ] Josephina and Weekey are properly introduced ==2
+	- [ ] Josephina's history lesson about [[Cressida Avery]] and the possible [[Male Veela]] in the Avery heritage
+	- [ ] Further study on why Dani is struggling with intentional magic (wandless) ==2 & 3== <mark style="background: #CACFD9A6;">Time skip to link chapters</mark>
+		- [ ] [[Dantalion's Ability]] is discovered  ==3==
+	- [ ] Preparing to steal from Levi ==3
+		- [ ] Dani realises that as Sarah has a [[Magical Core]] she isn't a spirit so this isn't a normal possession
+	- [ ] Dani and Sarah switch places in the nightmare for an instant ==3
 - [ ] [[Voldemort's Defeat]] - Halloween <mark style="background: #FFF3A3A6;">1981</mark> ==4
 	- [ ] The ministry raids the Atelier due to Leviathan's death eater membership
-	- [x] [[Leviathan Avery]] and [[Josephina Avery (née Flint)]] have a fight which brings up the conflict with [[The Rowle Family]] ==4
+	- [ ] [[Leviathan Avery]] and [[Josephina Avery (née Flint)]] have a fight which brings up the conflict with [[The Rowle Family]] ==4
 	- [ ] Levi's drinking starts becoming a more constant thing rather than just something at his parties
-	- [x] Dani starts stealing books from Levi's collection
-	- [x] Introduce Lucius and Severus(Dani doesn't know it's him at the time)
+	- [ ] Dani starts stealing books from Levi's collection
+	- [ ] Introduce Lucius and Severus(Dani doesn't know it's him at the time)
 	- [ ] Dani notices that she is starting to look sickly and that her sleep is getting even worse (side effects of possession)
-	- [x] Dani begins looking into Inga's death
+	- [ ] Dani begins looking into Inga's death
 	- [ ] 
 - [ ] [[Sarah's True intentions]] are revealed <mark style="background: #FFF3A3A6;">1982</mark> ==5
 	- [ ] Dani discovers Sarah's memories of the Harry Potter franchise and her time as Vephar ==5
@@ -57,7 +57,7 @@
 - [ ] [[Leviathan's Murder]] - <mark style="background: #BBFABBA6;">1983</mark> ==6
 	- [ ] Committed by [[Dantalion Avery]] ==6
 		- [ ] Causes her core to grow substantially ==6
-			- [ ] Puts more strain on her body as the possession symptoms worsen.
+			- [ ] Allows Dani to detach Sarah's soul and make her into a Horcrux ==6
 	- [ ] Initiated by Levi's violent behaviour towards Dani ==6
 		- [ ] Levi is drunk and had attended Lucius' party the night before so seeing Dani in his study triggered his outburst ==6
 		- [ ] Sarah panics which causes Dani to drain and destroy Levi's Core ==6
