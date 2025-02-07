@@ -2,7 +2,7 @@
 - Ancestral home is known as [[The Atelier]]
 - Also own a townhouse in Southwark
 - Surviving members: [[Josephina Avery (née Flint)]], [[Leviathan Avery]], [[Dantalion Avery]]
-- House elf: [[Weekey]]
+- House elf: [[Vissey]]
 - Hogwarts Houses: Averys have historically tended towards [[Ravenclaw]] and [[Slytherin]] with the occasional [[Hufflepuff]] but in recent generations there has been a tendency towards Slytherin which coincided with the family's shift into more extreme political views.
 
 **Canon**

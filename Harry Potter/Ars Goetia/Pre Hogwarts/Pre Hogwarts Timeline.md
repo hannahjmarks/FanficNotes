@@ -6,26 +6,28 @@
 - [ ] *[[First Wizarding War]] - officially began in 1970 (foundations as early as 1940s)*
 	- [ ] *Death of [[Belial Avery]] - <mark style="background: #FF5582A6;">1974</mark>*
 		- [ ] *[[Leviathan Avery]] is now family head*
-- [ ] [[Dantalion's Possession]] - <mark style="background: #FFB86CA6;"> Mid November 1978</mark> <mark style="background: #FFB8EBA6;">Age 2</mark> ==1==
-	- [ ] first glimpse of [[The Atelier]] ==1==
-	- [ ] introduced to [[Vephar Avery]] and [[Inga Avery (née Rowle)]](not named) ==1==
-	- [ ] find out about [[Sarah Crowley]]'s origins ==1==
-	- [ ] [[Dantalion Avery]] is introduced ==1
+- [x] [[Dantalion's Possession]] - <mark style="background: #FFB86CA6;"> Mid November 1978</mark> <mark style="background: #FFB8EBA6;">Age 2</mark> ==1==
+	- [x] first glimpse of [[The Atelier]] ==1==
+	- [x] introduced to [[Vephar Avery]] and [[Inga Avery (née Rowle)]](not named) ==1==
+	- [x] find out about [[Sarah Crowley]]'s origins ==1==
+	- [x] [[Dantalion Avery]] is introduced (Not named) ==1
 - [ ]  <mark style="background: #FFF3A3A6;">1980</mark> 
 	- [ ] *[[Draco Malfoy]] is born - Leviathan is not happy about it* (5th June) <mark style="background: #FFB8EBA6;">Age 4</mark>
 	- [ ] *[[Harry Potter]] is born* (31st July) <mark style="background: #FFB8EBA6;">Age 3 </mark>
 - [ ] [[Peaceful days]] - <mark style="background: #FFF3A3A6;">April 1981</mark> <mark style="background: #FFB8EBA6;">Age 4</mark> ==1, 2 & 3==
-	- [ ] Explanation of Dani's increased mental development
-	- [ ] Exploring Dani & Sarah's dynamic
-		- [ ] First introduced to possession research ==1
-	- [ ] We see [[The Atelier]] ==1==
-	- [ ] First intentional magic
-		- [ ] Manages a small flicker but doesn't know why she is struggling ==1
-	- [ ] [[Josephina Avery (née Flint)]] and [[Weekey]] are introduced conceptually ==1==
-		- [ ] Lessons are introduced conceptually ==1==
-	- [ ] Dani & Sarah's nightmares are introduced ==2
-		- [ ] Technically they are Sarah's but they both experience them ==2
-		- [ ] Dani is always watching as a bystander
+	- [x] Explanation of Dani's increased mental development
+	- [x] Exploring Dani & Sarah's dynamic
+		- [x] First introduced to possession research ==1
+	- [x] We see some of [[The Atelier]] ==1==
+		- [x] Library
+		- [x] Dining room
+	- [x] We meet [[Leviathan Avery]]
+	- [x] [[Josephina Avery (née Flint)]] and [[Vissey]] are introduced ==1==
+		- [x] Lessons are introduced ==1==
+		- [x] Dani performs magic successfully for the first time ==1
+	- [x] Dani & Sarah's nightmares are introduced ==2
+		- [x] Technically they are Sarah's but they both experience them ==2
+		- [x] Dani is always watching as a bystander
 	- [ ] [[Leviathan Avery]] is introduced ==2==
 		- [ ] Passed out drunk/hungover initially ==2
 		- [ ] Dani leaves when he begins to wake ==2

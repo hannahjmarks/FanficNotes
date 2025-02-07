@@ -50,7 +50,10 @@
     "Student/Hogwarts/Gryffindor": 4,
     "Prefect": 32,
     "WeasleyFamily": 33,
-    "Muggle": 34
+    "Muggle": 34,
+    "Professor/Hogwarts/Ravenclaw": 2,
+    "Professor/Hogwarts/Gryffindor": 3,
+    "pro": 35
   },
   "_version": 3
 }

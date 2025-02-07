@@ -5,7 +5,7 @@
 **Appearance
 - Fair skin
 - Features appeared regal in her youth but are becoming more austere with each year
-- Heavily greying dark brown hair, straight and usually in some kind of updo
+- greying dark brown hair, straight and usually in some kind of updo
 - Tall
 - Thin frame
 
@@ -36,4 +36,4 @@
 - Became a recluse
 	- Spends most days in her rooms and only occasionally moves to her Solar within [[The Atelier]]
 	- Usually just sits and stares into space (catatonic)
-	- Her physical appearance began to suffer as [[Weekey]] often had trouble getting her to eat
+	- Her physical appearance began to suffer as [[Vissey]] often had trouble getting her to eat

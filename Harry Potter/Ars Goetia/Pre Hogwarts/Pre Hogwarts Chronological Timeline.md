@@ -1,141 +1,82 @@
 #Timeline
 
-- 1974
-	- First wizarding war
-		- Death of Belial
-- November 1976
-	- Dani is born
-- November 1978 <mark style="background: #BBFABBA6;">Age 2</mark>
-	- 16th - Vephar Dies
-	- 16th - Dani is possessed
-- December 1978 <mark style="background: #BBFABBA6;">Age 2</mark>
-	- 5th - Inga Dies
-	- 7th - Inga's death is investigated and her collection of magical beasts is found by the ministry
-- January 1979 <mark style="background: #BBFABBA6;">Age 2</mark>
-	- 19th - The Rowles are found guilty of procuring magical creatures illegally
-	- 23rd - The Rowles are forced to pay significant fines which is paid for using what would be Torsten's inheritance
-- June 1980 <mark style="background: #BBFABBA6;">Age 3</mark>
-	- 5th Draco Malfoy is born
-		- Levi gets scarily angry at Dani for the first time
-- July 1980 <mark style="background: #BBFABBA6;">Age 3</mark>
-	- 31st - Harry Potter is born
-- September 1980 <mark style="background: #BBFABBA6;">Age 3</mark>
-	- Dani & Sarah begin researching possession
-	- Dani performs her first instance of accidental magic
-	- Dani discovers she can access Sarah's memories
-- March 1981 <mark style="background: #BBFABBA6;">Age 4</mark>
-	- Dani begins lessons with Josephina
-- April 1981 <mark style="background: #BBFABBA6;">Age 4</mark>
-	- ==Chapter 1 start
-	- Dani performs her first intentional magic
-	- ==Chapter 1 end
-	- ==Chapter 2 start
-	- Dani begins researching wandless casting
-	- Possession research is stalled due to excitement over first time casting
-	- ==Chapter 2 end
-- July 1981 <mark style="background: #BBFABBA6;">Age 4</mark>
-	- ==Chapter 3 start
-	- possession research resumes
-	- Dani discovers her ability
-	- Dani realises that Sarah isn't a spirit so possession is not normal
-		- Dani realises that she may need to look at dark magic books for the answer
-		- Dani plans to steal from Levi
-		- Dani learns more magic to do this safely
-		- Dani overhears a brief conversation between Lucius and Severus while testing imperturbable charm
-	- Dani switches with Sarah for the first time in the nightmare
-	- ==Chapter 3 end
-- October 1981 <mark style="background: #BBFABBA6;">Age 4</mark>
-	- ==Chapter 4 start
-	- Voldemort is Defeated by baby Harry
-	- Levi goes ballistic
-	- Dani steals a book from Levi's personal collection on soul magic (dark magic)
-	- Dani finds out about the feud between the Averys and the Rowles due to the fines for Inga's collection
-	- Switching places in nightmares are few but do happen
-	- Dani starts to feel more negative side effects of the possession
-	- ==Chapter 4 end
-- May 1982 <mark style="background: #BBFABBA6;">Age 5</mark>
-	- ==Chapter 5 start
-	- Dani discovers Sarah had known about the magical world and had lied
-	- Dani begins doubting Sarah
-	- Switching places in the nightmare is more frequent and longer duration
-		- Dani sees Sarah in the nightmare after they switched
-	- Dani really goes hard on the possession research as her symptoms worsen
-	- ==Chapter 5 end
-- June 1983 <mark style="background: #BBFABBA6;">Age 6</mark>
-	- ==Chapter 6 start
-	- Dani hits a dead end on the possession research
-	- Dani has been going through Sarah's memories of the Harry Potter franchise but Sarah's memory of it isn't good
-		- Dani stores as much of it as possible - not physically
-	- 12th - Levi attends an event held by Lucius which makes his jealousy spike
-	- 13th - Levi returns home drunk the following morning to find Dani in his study
-		- Dani was looking for another book on soul magic
-	- 13th - Levi has a very violent outburst at Dani which causes her to fear for her life
-		- Sarah is also panicking which exacerbates Dani's
-	- 13th - Dani drains Levi's core
-		- Levi falls asleep on the floor of his study
-	- 14th - Levi is discovered dead by Josephina
-		- Ministry investigation begins
-	- 20th - Cause of death is determined to be the dark magic artefact found on his desk
-	- ==Chapter 6 end
-- December 1983 <mark style="background: #BBFABBA6;">Age 7</mark>
-	- ==Chapter 7 
-	- Dani finally looks at Sarah's memories of her time as Vephar
-	- Dani finds Inga's diary
-	- Dani has gotten much better at magic due to core growth
-	- Dani's soul mark appears
-		- Dani asks Josephina about it
-	- Dani researches soul marks
-		- Dani uses the opportunity to spy on Sarah's thoughts
-			- Dani finds a vague notion of replacement and desperation
-	- Sarah has gotten much more desperate as Dani's magical ability has increased
-	- Sarah tries to force Dani's soul out by fully switching places in the nightmare
-		- Dani manages to force herself awake at the last moment
-	- Dani drains and destroys Sarah's core causing Sarah's tethers to Dani to wither and her soul to break away
-		- Sarah is now completely dead
-	- ==Chapter 7 end
-- September 1986 <mark style="background: #BBFABBA6;">Age 9</mark>
-	- ==Chapter 8 start
-	- Torsten starts visiting the atelier
-		- Dani notices
-		- He spent most time around Levi's study
-	- Torsten begins looking through Levi's things intending to steal and sell some of his more valuable collection pieces
-	- Torsten discovers the admin catalogue and gets the idea to try and become the new head of the Avery family
-	- Torsten starts trying to ingratiate himself to Josephina
-		- Dani notices the change
-- April 1987 <mark style="background: #BBFABBA6;">Age 10</mark>
-	- Dani spies on Torsten and Josephina's interactions
-	- Dani sees Torsten storming out of the house
-	- Dani questions Weekey for more information
-	- Dani finds out that Torsten wanted Josephina to sign something
-		- Dani retrieves the documents
-	- Dani searches Levi's study and collection room
-		- several empty spots on collection shelves
-		- Finds the admin copy of the catalogue stuffed behind some crates
-	- ==Chapter 8 end
-- May 1987 <mark style="background: #BBFABBA6;">Age 10</mark>
-	- ==Chapter 9 start
-	- Dani has spent time reading the admin copy
-	- Dani realises that there must be a master copy somewhere in the house
-	- Dani begins searching
-	- Dani finds the workshop
-	- Dani finds the master catalogue
-	- ==Chapter 9 end
-	- ==Chapter 10 start
-	- Dani begins to make use of the workshop
-	- Dani continues reading the master catalogue
-		- Focuses on the R&D notes
-- April 1988 <mark style="background: #BBFABBA6;">Age 11</mark>
-	- Dani is excited about starting Hogwarts soon
-	- Dani comes across the patent history section
-	- Dani finds out that Torsten has stolen some of their assets
-	- Dani begins planning what to do about Torsten
-	- Dani recruits Weekey to help with Torsten by protecting Josephina
-	- ==Chapter 10 end
-- July 1988 <mark style="background: #BBFABBA6;">Age 11</mark>
-	- ==Chapter 11 start
-	- Hogwarts letter arrives
-	- Dani goes to Diagon Alley with Weekey
-	- Dani gets her wand
-	- Dani starts practicing magic before school
-	- Dani makes Weekey promise to give her regular updates on Josephina and Torsten
-	- ==Chapter 11 end
+- [x] 1974
+	- [x] First Wizarding war
+		- [x] Death of Belial
+- [x] November 1976
+	- [x] Dani is born
+- [x] November 1978 <mark style="background: #BBFABBA6;">Age 2</mark> ==1
+	- [x] Vephar Dies ==1
+	- [x] Dani is possessed ==1
+- [ ] December 1978 <mark style="background: #BBFABBA6;">Age 2</mark>
+	- [x] 5th - Inga Dies ==1
+	- [ ] 7th - Inga's death is investigated and her collection of magical beasts is found by the ministry
+- [ ] January 1979 <mark style="background: #BBFABBA6;">Age 2</mark>
+	- [ ] 19th - The Rowles are found guilty of procuring magical creatures illegally
+	- [ ] 23rd - The Rowles are forced to pay significant fines which is paid for using what would be Torsten's inheritance
+- [ ] June 1980 <mark style="background: #BBFABBA6;">Age 3</mark>
+	- [ ] 5th - Draco Malfoy is born
+	- [x] Levi gets scarily angry at Dani for the first time ==2 (not fully described)
+- [ ] July 1980 <mark style="background: #BBFABBA6;">Age 3</mark>
+	- [ ] 31st - Harry Potter is born
+- [ ] September 1980 <mark style="background: #BBFABBA6;">Age 3</mark>
+	- [ ] Dani performs her first instance of accidental magic
+- [x] April 1981 <mark style="background: #BBFABBA6;">Age 4</mark> ==1
+	- [x] Dani & Sarah begin researching possession ==1
+	- [x] Dani begins lessons with Josephina ==1
+	- [x] Dani performs her first intentional magic during a lesson with Josephina ==1
+- [ ] October 1981 <mark style="background: #BBFABBA6;">Age 4</mark>
+	- [x] Dani begins casting wandlessly and wordlessly by instinct ==2
+	- [x] Possession research is stalled ==2
+	- [x] Dani discovers her magical sight ==1 & 2
+	- [x] Dani realises that she may need to look at dark magic books for answers ==2
+		- [x] Dani plans to steal from Levi ==2
+		- [x] Dani overhears a brief conversation between Lucius and Severus while practicing to sneak into Levi's study. ==2
+		- [x] Dani realises she will need either some luck or more spells to do this successfully ==2
+	- [x] Voldemort is Defeated by baby Harry ==2
+		- [x] Levi goes ballistic ==2
+		- [x] Dani steals a book from Levi's personal collection on soul magic (dark magic) ==2
+		- [x] The ministry raids the estate ==3
+			- [x] Levi lies about being under the imperious curse ==3
+- [x] May - June 1985 <mark style="background: #BBFABBA6;">Age 8</mark>
+	- [x] Dani discovers she can access Sarah's memories ==3
+	- [x] Dani really goes hard on the possession research as her symptoms have worsened over time ==3
+		- [x] Dani realises that they may need to make Sarah into a horcrux ==3
+	- [x] Sarah has become more erratic ==3
+	- [x] Josephina has stopped taking Dani on social outings with her as the physical symptoms of her progression get worse ==3
+	- [x] Dani gets better at occlumency to shut Sarah away ==3
+		- [x] This is probably worse for Sarah's mental state but it's the only thing that stops Dani's physical condition worsening ==3
+	- [x] Dani uses their dreams to look at Sarah's memories ==3
+		- [x] Dani has been going through Sarah's memories of the Harry Potter franchise but Sarah's memory of it isn't good ==3
+			- [x] Dani stores as much of it as possible - not physically ==3
+	- [x] Dani finds Sarah's memory of possessing her ==3
+		- [x] Dani looses a significant amount of trust in her as she finds out that Sarah intentionally possessed her ==3
+- [ ] June 1987 <mark style="background: #BBFABBA6;">Age 10</mark>
+	- [x] Dani hits a dead end on the possession research ==4
+	- [x] 12th - Levi attends an event held by Lucius which makes his jealousy spike ==4
+	- [x] 12th - Levi returns home drunk much earlier than expected to find Dani in his study ==4
+		- [x] Dani was looking for another book on soul magic ==4
+	- [x] 12th - Levi has a very violent outburst at Dani which causes her to fear for her life ==4
+		- [x] Sarah is also panicking which exacerbates Dani's ==4
+	- [x] 12th - Dani drains Levi's core ==4
+		- [x] Levi falls asleep on the floor of his study ==4
+		- [x] Dani feels the change in her as her core absorbs Levi's ==4
+		- [x] Dani senses that Levi will die in hours and gets to work making Sarah into a horcrux ==4
+			- [x] she uses a cursed compact mirror as the item. ==4
+	- [x] 13th - Levi is discovered dead by Josephina ==4
+		- [x] Ministry investigation begins ==4
+	- [ ] 20th - Cause of death is determined to be a result of a cursed item Levi was planning to add to his collection
+	- [ ] Dani notices a beetle that glows with magic in the corner of the room 
+		- [ ] The beetle is Rita Skeeter who finds Dani to be strange and subsequently publishes an article about her
+- [ ] July 1988 <mark style="background: #BBFABBA6;">Age 11</mark>
+	- [ ] Dani's Hogwarts letter arrives
+	- [ ] Josephina is not handling Levi's death well
+		- [ ] She stopped leaving the Atelier
+		- [ ] She stopped caring for herself and only really talks to Vissey
+	- [ ] Dani goes shopping in diagon alley with Vissey
+	- [ ] As soon as Dani gets her wand she starts learning more magic on her own but needs a better place to practice
+		- [ ] She starts exploring the Atelier and ends up finding the workshop
+	- [ ] Dani has gotten much better at magic due to core growth
+	- [ ] Dani's soul mark appears
+		- [ ] Dani asks Josephina about it
+		- [ ] Dani researches soul marks when Josephina falls short

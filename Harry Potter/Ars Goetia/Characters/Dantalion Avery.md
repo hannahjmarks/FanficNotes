@@ -1,7 +1,7 @@
 #AveryFamily #HasSoulMark #Alive #PureBlood #Student/Hogwarts/Ravenclaw  #Witch
 
 Hogwarts House: [[Ravenclaw]]
-Wand: Elm, 13 inches, Phoenix tail feather core
+Wand: Walnut, 13 inches, Phoenix tail feather core
 
 Born: 3rd November 1976
 Blood Status: Pure-blood
