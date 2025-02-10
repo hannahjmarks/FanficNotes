@@ -29,7 +29,19 @@ Notes:
 </Text>
         </Document>
         <Document ID="0A7EDD9F-9DE0-4CC9-9AC1-EE0E3769B6A8">
-            <Title>Scene</Title>
+            <Title>Sarah's 2nd Death</Title>
+            <Text>Sarah Crowley was dying. Again. 
+She’d only spent a year in this body before contracting a rather disgusting looking disease. Her most recent mother was lying in a large four-poster bed to the left of her crib. Even from here she could see her mottled green and purple skin, could hear her breath wheezing in and out, and glimpse the occasional spark coming from her nostrils. Being shut away in this room and largely left alone couldn’t have been good for the woman. It definitely hadn’t been good for Sarah, or Vephar as she was now called. It had been quite the shock, waking up one day as an infant with a hazy recollection of falling and yet somehow being very certain that she had died.
+She looked towards the window at the dreary November sky.
+The weather could have at least been better.
+Her final thoughts were apparently as fleeting and unsatisfactory as this very short reincarnation had been. She felt her soul begin to leave what was now her second body, deliberately not looking at the too still form of the infant. It had only been her body for a little over a year and she had only just begun thinking of it as hers, but that didn't mean she could look at it and not see a dead child. As she gently floated in midair, she began contemplating if there was such a thing as a third chance, after all she had been reincarnated once already and unlike her original world this one had magic.
+Moments stretched as she faded from the world, shards of herself drifting off and away to some unknown place. Perhaps this was her last life. Her first death had been sudden, an abrupt ripping away from her body as it lay crumpled on a pavement surrounded by broken glass and screams. This was slower, gentler. Maybe this had all been some grand cosmic mistake, maybe this slow unraveling was how it was supposed to be, or maybe she was still lying on that pavement and this was just the final desperate seconds her mangled brain had left.
+Either way, it didn’t matter now. Whether this last year had been real or not was irrelevant. It had mattered at the start of course; she had been a tumultuous mix of outrage and inconsolable grief for the first few weeks. She’d caused her poor second mother no end of grief given that the frazzled woman had no idea why her newborn was so upset. Eventually however, her calm periods grew longer and allowed her to be more than a roiling mass of rage and despair. From what she’d gathered she had been born into a far richer family than in her first life, her nursery had been large with a tall ceiling and moulded walls painted a tasteful duck egg blue. It had been during one of her later bouts of ear-piercing wailing however that she received another world-shattering revelation. Having sucked in as much air as possible into her tiny lungs, fully intending to deafen someone this time, her mother had pulled out her wand and cast ‘Silencio’ on her. It had taken her a few beats of silent wailing before she’d been able to comprehend what had happened. From that moment on the melancholy turned to excitement. While she’d been far from an avid reader and had been one of the few not to care much about the series, she would have had to have been living under a rock not to be at least partly familiar with it in her generation.
+What a shame it was; she was really looking forward to this life. Even if she didn’t care about Harry Potter, the notion of having magic is hard not to get excited about. But alas, it was time she started trying to accept that this was her fate regardless of her disappointment. As she felt more of herself drift and dissipate her attention was pulled to the creak of the door, and small tentative footsteps entering the room. She knew the small two-year-old form in the doorway, her ‘older’ sister, a pretty little girl with pale glass green eyes and a shock of light blonde curls atop her head. 
+All of a sudden, a spark of hope coursed through her, fuelled by self-preservation. Just as she felt the last thread connecting her to her body snap, she decided. Whatever was left of her, she wanted to live. She wanted to learn magic, to go to Hogwarts, to get sorted into her house. And in an instant of clarity, she realised that if the universe wasn’t going to give her a third life, then perhaps she could get one herself. This was it, the only way she could stay here for sure, the only way she could have even the slightest chance for her wishes to come true, and it was standing in the doorframe a few feet away.
+She was Not. Dying. Again.
+She hurled her now incorporeal form into the body of her ‘sister’ and wove the frayed edges of her being into the young girl. This would be fine, probably. After all, the girl wasn’t even three yet, she wouldn’t even have much of a personality at this age so what was she really taking from her? She felt herself settle in as fatigue weighed her down and the two of them slipped into unconsciousness.
+</Text>
         </Document>
         <Document ID="17AA5803-9EA9-49C2-A454-2E8386E18F0A">
             <Title>Dedication</Title>
@@ -46,6 +58,9 @@ Notes:
 
 Insert dedication here.</Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="1C620A13-184F-4290-94A2-3621BA81C04D">
+            <Title>How Far I'll Go</Title>
         </Document>
         <Document ID="1FF93A44-228E-438A-9D4B-E6B6258219A2">
             <Title>Manuscript Format</Title>
@@ -79,13 +94,13 @@ Notes:
             <Title>Title Page</Title>
             <Synopsis>Title page to the manuscript.</Synopsis>
             <Text>
-&lt;$template_fullName&gt;
-&lt;$template_street&gt;
-&lt;$template_city&gt;
-&lt;$template_state&gt;
-&lt;$template_ZIP&gt;
-&lt;$template_phoneNumber&gt;
-&lt;$template_email&gt;
+hanna
+Your address
+
+
+
+Your phone number
+Your e-mail address
 
 (Your agent’s name)
 (Your agent’s address)
@@ -121,6 +136,9 @@ Feel free to edit the text of the title page as required.</Notes>
 
 Your dedication here.</Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="549BC752-4D3A-4C4C-A220-0931FDFF3FFE">
+            <Title>Subterfuge</Title>
         </Document>
         <Document ID="57ECC98D-8199-4935-B5F1-D1F7A2D60646">
             <Title>Front Matter</Title>
@@ -160,6 +178,9 @@ ISBN-13:</Text>
         </Document>
         <Document ID="62FF97C4-994E-4778-B24F-1B07FB81601D">
             <Title>Cover</Title>
+        </Document>
+        <Document ID="664B23E5-D7DE-4F09-991A-51D4150DF64A">
+            <Title>The Power of Desperation</Title>
         </Document>
         <Document ID="6830B6AC-686B-4370-A979-2FD1D7288BDA">
             <Title>Places</Title>
@@ -311,6 +332,22 @@ the BBC Writers' Room website: http://www.bbc.co.uk/writersroom
 
 &lt;$author&gt;</Text>
             <Notes>These tags get replaced with the information set in the metadata tab of compile. Alternatively, you can simply replace this text altogether.</Notes>
+        </Document>
+        <Document ID="A8647887-5BAB-439A-A1B5-548D5BB66966">
+            <Title>Dantalion Avery</Title>
+            <Text>Dantalion Avery
+Age • Location
+Role in Story:
+Goal:
+Physical Description:
+Personality:
+Occupation:
+Habits/Mannerisms:
+Background:
+Internal Conflicts:
+External Conflicts:
+Notes:
+</Text>
         </Document>
         <Document ID="AA7F21EF-A4C4-485A-8044-6A7856D23E5B">
             <Title>Paperback Novel</Title>
@@ -939,7 +976,9 @@ Chapter subtitles: By default, Compile for this template is set up so that chapt
 Click on “Assign Section Layouts” at the bottom of the Compile panel.
 Select “Chapter Heading” in the list on the left.
 Select a different layout on the right, such as “Chapter Title”. (These layouts determine how each part of your manuscript looks in the compiled text.)
-Font: You can override the font used throughout a compiled document. At the top of the “Section Layouts” pane in the centre of the Compile panel, change the “Font” setting.Note that fonts are not included in ebooks, however—e-readers choose their own fonts (and you would need to pay a hefty fee for a licence to embed a font in an ebook). The “Font” setting is therefore not available for ebook formats.
+Font: You can override the font used throughout a compiled document. At the top of the “Section Layouts” pane in the centre of the Compile panel, change the “Font” setting.
+
+Note that fonts are not included in ebooks, however—e-readers choose their own fonts (and you would need to pay a hefty fee for a licence to embed a font in an ebook). The “Font” setting is therefore not available for ebook formats.
 Page size: The “Paperback” formats are set to create a PDF with a page size of 5.06&quot; x 7.81&quot; or 6&quot; x 9&quot;, which are two of the formats you can use with Amazon’s CreateSpace and are popular sizes for trade paperbacks. You can create your own paperback format using a different page size as follows:
 Right-click on the “Paperback (5.06&quot; x 7.81&quot;)” format in Compile’s “Formats” list.
 Select “Duplicate &amp; Edit Format…”. The compile format designer window will open.
@@ -969,7 +1008,9 @@ In the binder, select the documents you would like to appear in the table of con
 For a simple flat list, drag the selected documents into the editor and drop them in the empty “Contents” document. Alternatively, if you would like the table of contents indented to match the binder structure, select Edit &gt; Copy Special &gt; Copy Documents as Structured Link List and then click into the text of the “Contents” document and hit Ctrl+V or use Edit &gt; Paste. The documents you wish to appear in the table of contents will now appear as a list of links.
 If you wish to centre the table of contents, select the text and centre it.
 In the Inspector, change the “Section Type” of the “Contents” document to “Table of Contents”.
-Remove the editor lock by toggling Navigate &gt; Editor &gt; Lock in Place or deselecting the option from the menu that appears when right-clicking the document icon in the editor header.Now, when you compile, your custom “Contents” document will be used instead of the automatically-generated one. The titles in the links of the “Contents” document will automatically be updated to match those of the final compiled ebook.
+Remove the editor lock by toggling Navigate &gt; Editor &gt; Lock in Place or deselecting the option from the menu that appears when right-clicking the document icon in the editor header.
+
+Now, when you compile, your custom “Contents” document will be used instead of the automatically-generated one. The titles in the links of the “Contents” document will automatically be updated to match those of the final compiled ebook.
 Sample Documents
 The “Sample Output” folder inside the Research folder contains examples of documents that have been created by compiling from this template. “Standard Manuscript” shows the results when compiling to “Manuscript (Courier)”, and “Paperback Novel” shows the results when compiling to “Paperback (5.06&quot; x 7.81&quot;)” format with chapter subtitles included, as described in Making Changes, above.
 Final Note
@@ -983,7 +1024,7 @@ You can create your own templates by setting up a skeletal project with the file
             <Title>Paperback</Title>
         </Document>
         <Document ID="FD75AC3C-F304-4EA6-ADCC-2C32D6589969">
-            <Title>Chapter</Title>
+            <Title>Two's a Crowd</Title>
         </Document>
     </Documents>
 </SearchIndexes>

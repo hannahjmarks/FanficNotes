@@ -51,7 +51,7 @@
 			- [x] Dani stores as much of it as possible - not physically ==3
 	- [x] Dani finds Sarah's memory of possessing her ==3
 		- [x] Dani looses a significant amount of trust in her as she finds out that Sarah intentionally possessed her ==3
-- [ ] June 1987 <mark style="background: #BBFABBA6;">Age 10</mark>
+- [x] June 1987 <mark style="background: #BBFABBA6;">Age 10</mark>
 	- [x] Dani hits a dead end on the possession research ==4
 	- [x] 12th - Levi attends an event held by Lucius which makes his jealousy spike ==4
 	- [x] 12th - Levi returns home drunk much earlier than expected to find Dani in his study ==4
@@ -65,18 +65,19 @@
 			- [x] she uses a cursed compact mirror as the item. ==4
 	- [x] 13th - Levi is discovered dead by Josephina ==4
 		- [x] Ministry investigation begins ==4
-	- [ ] 20th - Cause of death is determined to be a result of a cursed item Levi was planning to add to his collection
-	- [ ] Dani notices a beetle that glows with magic in the corner of the room 
+	- [x] 20th - Cause of death is determined to be a result of a cursed item Levi was planning to add to his collection ==4
+	- [x] Dani notices a beetle that glows with magic in the corner of the room  ==4
 		- [ ] The beetle is Rita Skeeter who finds Dani to be strange and subsequently publishes an article about her
-- [ ] July 1988 <mark style="background: #BBFABBA6;">Age 11</mark>
-	- [ ] Dani's Hogwarts letter arrives
-	- [ ] Josephina is not handling Levi's death well
-		- [ ] She stopped leaving the Atelier
-		- [ ] She stopped caring for herself and only really talks to Vissey
-	- [ ] Dani goes shopping in diagon alley with Vissey
-	- [ ] As soon as Dani gets her wand she starts learning more magic on her own but needs a better place to practice
-		- [ ] She starts exploring the Atelier and ends up finding the workshop
-	- [ ] Dani has gotten much better at magic due to core growth
-	- [ ] Dani's soul mark appears
-		- [ ] Dani asks Josephina about it
-		- [ ] Dani researches soul marks when Josephina falls short
+- [x] July 1988 <mark style="background: #BBFABBA6;">Age 11</mark>
+	- [x] Dani's Hogwarts letter arrives ==5
+	- [x] Dani's appearance has changed since draining Levi ==5
+	- [x] Josephina is not handling Levi's death well ==5
+		- [x] She stopped leaving the Atelier ==5
+		- [x] She stopped caring for herself and only really talks to Vissey ==5
+	- [x] Dani goes shopping in diagon alley with Vissey ==5
+	- [x] As soon as Dani gets her wand she starts learning more magic on her own but needs a better place to practice ==5
+		- [x] She starts exploring the Atelier and ends up finding the workshop ==5
+	- [x] Dani has gotten much better at magic due to core growth ==5
+	- [x] Dani's soul mark appears ==5
+		- [x] Dani asks Josephina about it ==5
+		- [x] Dani researches soul marks when Josephina falls short ==5

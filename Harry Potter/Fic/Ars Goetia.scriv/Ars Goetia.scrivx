@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="HannahPC" Modified="2025-02-07 18:48:10 +0000" ModID="1838A850-9288-4C00-82E1-C2A3C876B93C">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="HannahPC" Modified="2025-02-07 19:08:49 +0000" ModID="0A9FF80C-29EC-4C93-873C-8D069B064509">
     <Binder>
-        <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 18:50:52 +0000" Modified="2021-03-04 10:13:23 +0000">
+        <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 18:50:52 +0000" Modified="2025-02-07 19:06:44 +0000">
             <Title>Novel Format</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -11,30 +11,63 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="4A1D6B18-0952-42EB-A487-D17915DD3BA1" Type="DraftFolder" Created="2018-11-06 18:50:52 +0000" Modified="2019-08-29 10:41:55 +0000">
+        <BinderItem UUID="4A1D6B18-0952-42EB-A487-D17915DD3BA1" Type="DraftFolder" Created="2018-11-06 18:50:52 +0000" Modified="2025-02-07 19:06:44 +0000">
             <Title>Manuscript</Title>
             <MetaData/>
             <Children>
-                <BinderItem UUID="FD75AC3C-F304-4EA6-ADCC-2C32D6589969" Type="Folder" Created="2018-11-06 18:50:52 +0000" Modified="2019-10-06 12:20:50 +0000">
-                    <Title>Chapter</Title>
+                <BinderItem UUID="FD75AC3C-F304-4EA6-ADCC-2C32D6589969" Type="Folder" Created="2018-11-06 18:50:52 +0000" Modified="2025-02-07 19:06:44 +0000">
+                    <Title>Two's a Crowd</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>0A7EDD9F-9DE0-4CC9-9AC1-EE0E3769B6A8</SelectedSubdocumentUUIDs>
+                        <CorkboardSettings>
+                            <Arrangement>Linear</Arrangement>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem UUID="0A7EDD9F-9DE0-4CC9-9AC1-EE0E3769B6A8" Type="Text" Created="2018-11-06 18:50:52 +0000" Modified="2019-10-06 12:20:50 +0000">
-                            <Title>Scene</Title>
+                        <BinderItem UUID="0A7EDD9F-9DE0-4CC9-9AC1-EE0E3769B6A8" Type="Text" Created="2018-11-06 18:50:52 +0000" Modified="2025-02-07 19:06:44 +0000">
+                            <Title>Sarah's 2nd Death</Title>
                             <MetaData>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>503,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
+                </BinderItem>
+                <BinderItem UUID="549BC752-4D3A-4C4C-A220-0931FDFF3FFE" Type="Folder" Created="2025-02-07 18:56:59 +0000" Modified="2025-02-07 19:06:44 +0000">
+                    <Title>Subterfuge</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="1C620A13-184F-4290-94A2-3621BA81C04D" Type="Folder" Created="2025-02-07 18:57:21 +0000" Modified="2025-02-07 19:06:44 +0000">
+                    <Title>How Far I'll Go</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="664B23E5-D7DE-4F09-991A-51D4150DF64A" Type="Folder" Created="2025-02-07 18:57:33 +0000" Modified="2025-02-07 19:06:44 +0000">
+                    <Title>The Power of Desperation</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -48,6 +81,19 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <DefaultChildTemplateUUID>28AFDB37-2FF4-4BD4-A273-1AEFF4E9EAE4</DefaultChildTemplateUUID>
+            <Children>
+                <BinderItem UUID="A8647887-5BAB-439A-A1B5-548D5BB66966" Type="Text" Created="2025-02-07 19:08:17 +0000" Modified="2025-02-07 19:08:47 +0000">
+                    <Title>Dantalion Avery</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>45,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem UUID="6830B6AC-686B-4370-A979-2FD1D7288BDA" Type="Folder" Created="2018-11-06 18:50:52 +0000" Modified="2018-11-06 18:50:52 +0000">
             <Title>Places</Title>
@@ -147,7 +193,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="62FF97C4-994E-4778-B24F-1B07FB81601D" Type="Image" Created="2019-08-29 11:04:08 +0000" Modified="2019-08-29 11:04:08 +0000">
+                        <BinderItem UUID="62FF97C4-994E-4778-B24F-1B07FB81601D" Type="Image" Created="2019-08-29 11:04:08 +0000" Modified="2025-02-07 19:06:44 +0000">
                             <Title>Cover</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -183,7 +229,7 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="669D7B65-8096-4EFD-A0E2-6BDE8C1E3585" Type="ResearchFolder" Created="2018-11-06 18:50:52 +0000" Modified="2019-08-29 10:41:55 +0000">
+        <BinderItem UUID="669D7B65-8096-4EFD-A0E2-6BDE8C1E3585" Type="ResearchFolder" Created="2018-11-06 18:50:52 +0000" Modified="2025-02-07 19:06:44 +0000">
             <Title>Research</Title>
             <MetaData/>
             <Children>
@@ -196,7 +242,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="8011470C-3DAB-46BE-A166-FCF536FE86F6" Type="PDF" Created="2021-03-11 03:42:16 +0000" Modified="2021-03-12 06:17:19 +0000">
+                        <BinderItem UUID="8011470C-3DAB-46BE-A166-FCF536FE86F6" Type="PDF" Created="2021-03-11 03:42:16 +0000" Modified="2025-02-07 19:06:44 +0000">
                             <Title>Standard Manuscript</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -206,7 +252,7 @@
                                 <CurrentPDFPage>1</CurrentPDFPage>
                             </MediaSettings>
                         </BinderItem>
-                        <BinderItem UUID="AA7F21EF-A4C4-485A-8044-6A7856D23E5B" Type="PDF" Created="2021-03-12 06:32:10 +0000" Modified="2021-03-12 06:45:01 +0000">
+                        <BinderItem UUID="AA7F21EF-A4C4-485A-8044-6A7856D23E5B" Type="PDF" Created="2021-03-12 06:32:10 +0000" Modified="2025-02-07 19:06:44 +0000">
                             <Title>Paperback Novel</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -252,7 +298,7 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem UUID="F2DF7FDE-46C4-4962-97F3-128A46433573" Type="TrashFolder" Created="2018-11-06 18:50:52 +0000" Modified="2019-08-29 10:41:55 +0000">
+        <BinderItem UUID="F2DF7FDE-46C4-4962-97F3-128A46433573" Type="TrashFolder" Created="2018-11-06 18:50:52 +0000" Modified="2025-02-07 19:06:44 +0000">
             <Title>Trash</Title>
             <MetaData/>
         </BinderItem>
@@ -327,15 +373,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2025-02-07 18:48:08 +0000" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-02-07 18:48:10 +0000"/>
+        <PreviousSession Words="907" Characters="4922" Date="2025-02-07 19:08:49 +0000"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2025-02-07 00:00:00 +0000">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+        <DraftWordCount>907</DraftWordCount>
+        <DraftCharCount>4922</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherCharCount>1</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
