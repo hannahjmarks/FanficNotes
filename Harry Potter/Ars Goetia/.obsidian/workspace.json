@@ -6,6 +6,7 @@
       {
         "id": "bfcc6a33b588bd40",
         "type": "tabs",
+        "dimension": 70.13422818791946,
         "children": [
           {
             "id": "26593b1ed4d83abf",
@@ -13,26 +14,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pre Hogwarts/Pre Hogwarts Chronological Timeline.md",
+                "file": "1st Year/1st Year Chronological Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pre Hogwarts Chronological Timeline"
+              "title": "1st Year Chronological Timeline"
             }
           },
           {
-            "id": "f3192c5da63437ea",
+            "id": "6f5711b6583821f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pre Hogwarts/Pre Hogwarts Timeline.md",
+                "file": "Future Events/Telling Severus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pre Hogwarts Timeline"
+              "title": "Telling Severus"
+            }
+          },
+          {
+            "id": "4c432182fea98d2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1st Year/1st Year Timetable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1st Year Timetable"
             }
           },
           {
@@ -54,6 +69,7 @@
       {
         "id": "19d61d9559724355",
         "type": "tabs",
+        "dimension": 29.86577181208054,
         "children": [
           {
             "id": "159c1bedb8c539c0",
@@ -209,32 +225,34 @@
   },
   "active": "26593b1ed4d83abf",
   "lastOpenFiles": [
-    "Characters/Dantalion Avery.md",
-    "Characters/Gerhard Spindle.md",
-    "Pre Hogwarts/Pre Hogwarts Chronological Timeline.md",
-    "Characters/Francisco Drake.md",
-    "Characters/Delphine Hawks.md",
-    "Characters/Sarah Crowley.md",
-    "Characters/Inga Avery (née Rowle).md",
-    "Pre Hogwarts/Pre Hogwarts Timeline.md",
-    "Characters/Cressida Avery.md",
-    "Characters/Antonius Avery.md",
-    "Characters/Rycher Avery.md",
-    "Families/The Avery Family.md",
-    "Characters/Josephina Avery (née Flint).md",
-    "Characters/Vissey.md",
-    "Characters/Vephar Avery.md",
-    "Characters/Thorfinn Rowle.md",
+    "1st Year/1st Year Timetable.md",
+    "1st Year/1st Year Chronological Timeline.md",
+    "Future Events/The death of Torsten Rowle.md",
+    "World Systems/Emancipation.md",
+    "Characters/Constantin Pucey.md",
     "Characters/Severus Snape.md",
-    "Characters/Ginny Weasley.md",
-    "Characters/George Weasley.md",
-    "Characters/Fred Weasley.md",
-    "Characters/Percy Weasley.md",
-    "Characters/Penelope Clearwater.md",
-    "Characters/Oswyn Avery.md",
-    "Characters/Nymphadora Tonks.md",
-    "Characters/Lucius Malfoy.md",
-    "Characters/Lord Voldemort.md",
+    "Future Events/Telling Severus.md",
+    "Magic Systems/Soulmates.md",
+    "Characters/Dantalion Avery.md",
+    "Future Events/On the subject of the Unbound.md",
+    "Characters/Antonius Avery.md",
+    "Characters/Paimon Avery.md",
+    "Characters/Cressida Avery.md",
+    "Future Events",
+    "Pre Hogwarts Chronological Timeline.md",
+    "7th Year/7th Year Timetable.md",
+    "6th Year/6th Year Timetable.md",
+    "5th Year/5th Year Timetable.md",
+    "4th Year/4th Year Timetable.md",
+    "3rd Year/3rd Year Timetable.md",
+    "2nd Year/2nd Year Timetable.md",
+    "Business/Invention ideas/Drying charm.md",
+    "Business/Invention ideas/Hair cleaning charm.md",
+    "Business/Invention ideas/Portable Defences.md",
+    "Characters/Calliope Green.md",
+    "Business/Invention ideas/Floo delivery network.md",
+    "Business/Invention ideas",
+    "Business/Untitled.md",
     "Locations/Pasted image 20240624152454.png",
     "Pasted image 20240624152442.png",
     "Creatures",
@@ -244,8 +262,6 @@
     "Hogwarts",
     "Families",
     "Pre Hogwarts",
-    "World Systems",
-    "Magic Systems",
-    "7th Year"
+    "World Systems"
   ]
 }

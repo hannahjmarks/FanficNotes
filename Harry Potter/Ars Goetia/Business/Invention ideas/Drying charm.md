@@ -1,0 +1,7 @@
+- Small scale not monetised
+- Dani hates how long it takes to dry off after a shower
+	- especially her hair
+- based on tergeo
+	- a much gentler form that focuses on water
+- becomes really popular with the other girls at hogwarts
+- Dani creates this during summer between 3rd and 4th year

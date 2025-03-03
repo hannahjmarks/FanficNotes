@@ -1,0 +1,154 @@
+
+
+- [x] 31st August 1988 ==6
+	- [x] Dani digs Sarah up but can't bring herself to talk to her ==6
+		- [x] Dani decides to take her to hogwarts, hiding her in her trunk ==6
+- [x] 1st September 1998
+	- [x] Vissey Floos Dani to kingscross and Dani goes to the platform alone ==6
+		- [x] Dani insists on going as early as possible to avoid questions about why josephina isn't with her ==6
+	- [x] Meets a few other kids on the train, finds most of them too excitable and annoying ==6
+		- [x] One of them is Penelope Clearwater who balks at Dani's claws ==6
+			- [x] Dani Bites back and the two are at odds immediately ==6
+	- [x] First view of hogwarts ==6
+		- [x] It's under the intersection of several ley lines which makes the magic thicker and much more abundant
+			- [x] For Dani's sight that means she sometimes struggles not to get distracted by errant whisps of stray magic.
+	- [x] Sorted into Ravenclaw ==6
+		- [x] is given the option of Slytherin but doesn't want to be like Levi
+			- [x] Dani threatens to burn the hat in response
+- [x] 2nd September 1988
+	- [x] Dani meets Calliope who is one of her roommates along with Genevieve Clearwater and Luisa Partridge ==7
+		- [x] Luisa and Genevieve are very giggly and Dani finds them too childish
+	- [x] Timetables are handed out and lessons begin
+	- [x] First day of term is friday so things are light in the few subjects Dani has
+		- [x] She finds astronomy boring and doesn't really see the purpose
+			- [x] it has some of the precursors for divination and making star charts are good practice for arithmancy ==7
+				- [x] This subject is basically to build up core skills required for various electives ==7
+		- [x] Potions is nerve wracking
+			- [x] Snape tells them to brew cure for boils after a brief intro to the class
+				- [x] Dani pairs with Calliope and lies saying she's a little colourblind
+		- [x] General observations ==6
+			- [x] Professors don't look like their movie counterparts though some are similar
+				- [x] They fit their book descriptions more but still not exactly
+					- [x] Dani isn't aware of the book descriptions
+- [x] 5th September - 9th September
+	- [x] DADA professor is Delphine Hawks and Dani is more interested in her being an unspeakable than her lessons
+		- [x] Delphine focuses on a theoretical approach to DADA, teaching students about the strengths and weaknesses of various creatures while giving a good foundation in general magical theory
+	- [x] Dani loves transfiguration and charms and is noticed by both Flitwick and McGonagall
+		- [x] McGonagall has some reservations due to Levi being a known death eater.
+		- [x] Flitwick lets Dani work on homework or other projects when she finishes early in class
+		- [x] Dani finds the Gryffindors to be largely disruptive 
+	- [x] Herbology is fun and Dani likes Sprout ==7
+		- [x] She finds the practice itself to be relaxing and decides to try reviving the greenhouse at the atelier over summer
+	- [x] History of Magic
+		- [x] Dani finds Binns as boring as everyone else and uses the lessons to either sleep or do homework
+	- [x] Flying
+		- [x] Dani does not like flying ==7
+			- [x] The brooms feel sort of like using someone else's wand to her and thus she feels like she can't control them as well as she'd like for something so potentially dangerous. ==7
+			- [x] She uses her ability to maintain a white knuckle grip on the brooms so while she isn't bad at flying she's only doing the bare minimum to pass and her discomfort is clear ==8
+	- [x] There's only homework for potions so Dani spends her free time working on more advanced charms  ==7
+		- [x] She especially includes Aresto Momentum to feel better about flying
+- [x] September - December (up to christmas break) <mark style="background: #BBFABBA6;">Age 12</mark>
+	- [x] Dani and Calliope have a good system working in potions
+		- [x] Snape makes the class brew a potion on their own for the first time and the pair get caught trying to work together anyway
+			- [x] He makes them stay after class and Dani says she's colourblind to avoid detention, Snape then dismisses Calliope and scolds Dani for not telling him something that important
+	- [x] Calliope and Dani become proper friends
+		- [x] Calliope talks to Dani about growing up in a muggle household and is appalled when Dani tells her that she likes learning new spells for fun 
+			- [x] Calliope feels that this is too much like studying
+			- [x] Calliope introduces Dani to Muggle fiction
+	- [x] Dani starts to really excel at both charms and transfiguration
+		- [x] Flitwick and McGonagall take her aside for a meeting just before christmas 
+			- [x] They want to know if she was taught the material before coming to hogwarts
+			- [x] They set Dani a challenge for each subject due after christmas break to see if she could handle harder material or if her overachieving was because she was already taught the material.
+			- [x] Charms challenge: Learn to cast Finite Incantatum and write an essay on how and why it works
+				- [x] Dani also included why it doesn't work on enchanted items unless the enchantment is active
+			- [x] Transfiguration Challenge: Learn the vanishing spell (Evanesco) and McGonagall will test Dani using creatures of various complexities.
+				- [x] McGonagall deliberately set Dani what she thinks is an impossible task in an effort to test how she handles failure and to see if she'll get help from her family
+					- [x] McGonagall isn't aware of Dani staying at hogwarts for christmas until after the meeting
+	- [x] Calliope is much more sociable than Dani and has made other friends so she starts inviting them to study with her and dani
+		- [x] Dani finds it a little annoying especially when a gryffindor blatantly tries to copy her homework
+		- [x] overall Dani is more helpful to the other students than even she expected herself to be
+			- [x] this helps people stop giving her weird looks because of the fangs and claws as well as skeeters article from over a year ago
+- [x] Christmas Break ==8
+	- [x] Calliope goes home, leaving Dani alone
+		- [x] Dani doesn't mind as she's never really celebrated christmas
+			- [x] Dani's also never celebrated her birthday and didn't tell Calliope that it was in november
+	- [x] Dani finds the lack of students and classes very useful for her challenges and finds an empty classroom to practice in.
+		- [x] Dani gets charms done first so she can focus on transfiguration
+		- [x] Dani manages to cast evanesco quickly but the hardest part is finding suitably complex things to practice on
+			- [x] Dani starts wondering the grounds to practice on insects and invertibrates before getting too close to the forbidden forest and having a run-in with a rabid fox
+				- [x] Dani uses the body-bind curse to imobalise it and then decides to practice evanesco on it
+					- [x] It takes a few hours of trying before she gets it right
+			- [x] Dani was out past curfew because of all this and gets caught by snape
+				- [x] Snape assigns detention but instead of making her do an actual detention he asks what she was doing
+				- [x] he doesn't believe her at first but makes her demonstrate and is begrudgingly impressed when dani successfully vanishes a Doxy in front of him
+- [ ] January - march (easter holidays)1989
+	- [x] Dani passes both the transfiguration and charms challenges and is allowed to take her first year exams for both subjects early so she can go on a different curriculum
+		- [x] This results in a meeting with Dumbledor to discuss if she could cope with the workload
+			- [x] Dumbledor notices dani occasionally looking at supposedly empty air when she's looking at the enchantments covering the room
+	- [x] Genevieve starts picking at Dani
+		- [ ] She's felt inferior to her older sister so far and was hoping hogwarts would be the place she could stand out for her own achievements but then got overshadowed by Dani which makes her jealous.
+		- [x] Genevieve talks often about how dani's family were known death eaters and how dani herself looks creepy
+			- [ ] this propts calliope to ask about death eaters and such
+	- [ ] Flitwick begins teaching Dani wordless and wandless magic
+		- [ ] this is so his lectures on the uses and mechanics of various spells will still be useful to her so she can stay with her year group
+		- [ ] Dani uses those lessons to improve the spells she already knows
+		- [ ] Dani meets with flitwick once per week for half an hour after lessons on monday
+	- [ ] McGonagall has dani working on second year curriculum which she mostly assigns as reading
+		- [ ] Dani isn't allowed to attempt new spells without first going over them with McGonagall in the half hour they meet after lessons on Wednesday
+			- [ ] this lets McGonagall demonstrate them to her first
+			- [ ] After that Dani is allowed to practice them during normal practical time in class
+- [ ] Easter holidays 1989
+	- [ ] Dani notes that it's 'mating season'
+	- [ ] Dani is told she can't practice any advanced spells without supervision after snape catches her in the same classroom she used over christmas
+		- [ ] Dani explores the castle out of boredom ending up  pacing on the seventh floor thinking about how she needs somewhere private to practice
+		- [ ] Dani finds the room of requirement
+			- [ ] Dani promptly ignores snape's instructions not to practice
+	- [ ] Dani gets caught without her disillusionment charm over the holiday by Rufus Cross
+		- [ ] Rufus is a seventh year gryffindor whose mother died at the hands of death eaters during the first wizarding war
+			- [ ] Rufus is angry, stubborn and lacks critical thinking skills
+			- [ ] Rufus' mother died around easter
+		- [ ] Rufus attacks Dani in the seventh floor corridor
+			- [ ] Dani holds him off but he's a seventh year and much more practiced at duelling
+		- [ ] Snape hears the commotion and arrives in time to try and stop the fight
+			- [ ] Rufus is now under his own Disillusionment charm in an attempt to flee but Dani can see it thanks to her astral vision and uses the body-bind curse to stop him
+		- [ ] Snape brings Dani to Dumbledore's office as this is a serious matter
+			- [ ] Dani recounts the entire incident and all the things leading up to it
+				- [ ] Genevieve and Penelope will face punishment for their involvement
+				- [ ] Dumbledore puts a stop to the rumors and Snape lets slip that Dani technically won a duel against a seventh year
+			- [ ] Snape asks Dani how she saw through Rufus' disillusionment charm as it is one of the few things he is good at
+				- [ ] Dani tries to lie but Dumbledore joins in until she lets slip that she can see it because of her astral vision
+				- [ ] Dani then explains the extent of her ability
+				- [ ] Snape assigns her office hours with him to go through what various potions look like at various stages of brewing to her
+					- [ ] This is done under the guise of helping her potions work with the handicap her vision presents
+					- [ ] Flitwick, McGonagall and Dumbledore are all just as eager to test Dani's ability for themselves but manage to contain themselves
+						- [ ] Flitwick and McGonagall start asking her about it in their catch-ups
+- [ ] April - July 1989
+	- [ ] Lessons progress smoother now that her professors know about her sight
+		- [ ] She still has detention from snape for breaking curfew but he gets her to watch him brew a potions she doesn't recognise and asks what she sees while he does
+		- [ ] Dani asked that they not tell all the staff, she's fine with all the heads of houses knowing but didn't want the DADA professor to get too interested and report her ability back to the department of mysteries
+		- [ ] Genevieve gets angrier that Dani's transgression seems to have been overlooked or even rewarded
+	- [ ] Dani is allowed to take the second year exams for charms and transfiguration
+	- [ ] Calliope invites Dani to spend some of the summer at her house but Dani refuses using josephina as an excuse
+		- [ ] Dani fakes a letter from josephina saying no
+		- [ ] The real reason is that Dani's worried either calliope's parents will want to talk to josephina or that she won't be able to get there as they are a muggle household and don't have floo access
+	- [ ] Dani is warned again that she shouldn't be experimenting too much with new spells over summer unless she's supervised
+		- [ ] Flitwick tells her that he's written to josephina expressing this but Dani isn't worried she doubts Josephina will read it
+	- [ ] At kings cross Dani meets Calliope's parents and older brother
+		- [ ] they ask where her grandmother is and dani lies and says that she was supposed to floo home herself as her grandmother was unwell
+			- [ ] This makes them more concerned but dani placates them by telling them josephina was probably just being dramatic
+- [ ] Summer 1989
+	- [ ] Dani practices new spells in the workshop
+		- [ ] she considers doing potions but isn't that reckless
+	- [ ] Vissey tells dani how Torsten Rowle started visiting josephina
+		- [ ] Vissey says he was overly friendly but she doesn't stop the visits cause its the only time josephina seems engaged and talks in full sentences
+		- [ ] Dani is on edge, suspecting torsten is up to something
+	- [ ] Dani begins looking through the research notes in the workshop
+		- [ ] she finds multiple references to 'the catalogue' and decided to try and find it
+		- [ ] When she finds the catalogue she reads it through and finds that contains the original and updated contracts and patents the family holds
+			- [ ] She finds that two of them are dangerously close to falling through
+				- [ ] Levi was supposed to fulfil his side of the deal but wasn't capable of the magic required
+				- [ ] This would take a significant chunk of the family income away
+		- [ ] Dani starts learning specific enchantments such as the undetectable extension charm and the feather-light charm and eventually enchants a messenger bag so that she can bring the notes from the workshop when she returns to hogwarts
+	- [ ] The contract that is of most concern will run out when dani is in sixth year but she will need to get much better at magic by then if she wants to fulfil it
+		- [ ] the contract is for the enchantments securing several vaults in the department of mysteries, Dani's great great grandmother originally made them but they now need recasting
+		- [ ] See [[Portable Defences]] for details

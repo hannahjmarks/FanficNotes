@@ -5,7 +5,7 @@
 
 "For an application to be successful the applicant will need to prove to a ministry approved neutral third-party (who will act as the Sponsor of the application) that they:
 
-A) Are fully aware of the ramifications of their request in that their parents/guardian will no longer be responsible for their wellbeing or care and that it will legally have come of age
+A) Are fully aware of the ramifications of their request in that their parents/guardian will no longer be responsible for their wellbeing or care and that they will legally have come of age
 
 B) Have secured a safe and suitable place to live
 

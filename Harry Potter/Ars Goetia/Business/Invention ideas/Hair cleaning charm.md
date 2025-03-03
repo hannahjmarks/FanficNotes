@@ -1,0 +1,7 @@
+- small scale not monetised
+- created for severus so that he had a way to get the potion residue out of his hair between classes
+- based on scourgify and tergeo 
+	- gentler than both to allow for multiple castings per day if one chose
+	- using either of the other spells is too rough on hair and would cause it to break of fall out
+- Dani creates this as a present for severus to give to him when she tells him they're soulmates
+	- she crafts the spell during her fifth year

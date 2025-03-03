@@ -202,42 +202,6 @@
       "color": "ypyRR9Op8t8NPIyY6b_60"
     },
     {
-      "path": "Pre Hogwarts",
-      "color": "f8nXOevd-nkE2wjjtOtB5"
-    },
-    {
-      "path": "Pre Hogwarts/Dantalion's Exorcism.md",
-      "color": "FXJuZWYan0dT3bz_6mnUN"
-    },
-    {
-      "path": "Pre Hogwarts/Dantalion's Possession.md",
-      "color": "FXJuZWYan0dT3bz_6mnUN"
-    },
-    {
-      "path": "Pre Hogwarts/First Wizarding War.md",
-      "color": "FXJuZWYan0dT3bz_6mnUN"
-    },
-    {
-      "path": "Pre Hogwarts/Leviathan's Murder.md",
-      "color": "FXJuZWYan0dT3bz_6mnUN"
-    },
-    {
-      "path": "Pre Hogwarts/Pre Hogwarts Timeline.md",
-      "color": "f8nXOevd-nkE2wjjtOtB5"
-    },
-    {
-      "path": "Pre Hogwarts/Sarah's True intentions.md",
-      "color": "FXJuZWYan0dT3bz_6mnUN"
-    },
-    {
-      "path": "Pre Hogwarts/Torsten Rowle's Plot.md",
-      "color": "FXJuZWYan0dT3bz_6mnUN"
-    },
-    {
-      "path": "Pre Hogwarts/Voldemort's Defeat.md",
-      "color": "FXJuZWYan0dT3bz_6mnUN"
-    },
-    {
       "path": "World Systems",
       "color": "UDQmQITHEonR1igb8tieY"
     },
@@ -302,10 +266,6 @@
       "color": "l9ya1xB4rWsh9jSwJ1ned"
     },
     {
-      "path": "1st Year/1st Year Curriculum.md",
-      "color": "sAt_o7gbeXADtEje7CpN4"
-    },
-    {
       "path": "2nd Year/2nd Year Curriculum.md",
       "color": "sAt_o7gbeXADtEje7CpN4"
     },
@@ -358,7 +318,7 @@
       "color": "f8nXOevd-nkE2wjjtOtB5"
     },
     {
-      "path": "1st Year/1st Year Timeline.md",
+      "path": "1st Year/1st Year Chronological Timeline.md",
       "color": "f8nXOevd-nkE2wjjtOtB5"
     },
     {
@@ -386,10 +346,6 @@
       "color": "f8nXOevd-nkE2wjjtOtB5"
     },
     {
-      "path": "Pre Hogwarts/Pre Hogwarts Chronological Timeline.md",
-      "color": "f8nXOevd-nkE2wjjtOtB5"
-    },
-    {
       "path": "Characters/Oswyn Avery.md",
       "color": "Ab_qo0z7Flvs-CHKXgjeF"
     },
@@ -407,6 +363,10 @@
     },
     {
       "path": "Characters/Gerhard Spindle.md",
+      "color": "Ab_qo0z7Flvs-CHKXgjeF"
+    },
+    {
+      "path": "Characters/Paimon Avery.md",
       "color": "Ab_qo0z7Flvs-CHKXgjeF"
     }
   ]
