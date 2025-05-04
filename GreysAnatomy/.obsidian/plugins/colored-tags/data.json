@@ -1,0 +1,16 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "custom",
+    "custom": "a1ffcb-a1ffec-a1e1ff-a1b7ff-c5a1ff-dea1ff-fda1ff-ffa1c2-ffa1a1-ffbaa1-ffd8a1-ffefa1-d9ffa1-a7ffa1"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "Neuro": 1
+  },
+  "_version": 3
+}
