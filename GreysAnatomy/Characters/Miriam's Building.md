@@ -1,0 +1,27 @@
+
+- Down the street from Joe's and also opposite [[Seattle Grace]]
+- Originally an old warehouse built in the early 1900s
+- Miriam bought it in her third year of residency
+	- She purchased it from a former patient who had suffered a cardiac arrest due to the stress of trying to fund the repairs and upgrades the building needed
+		- He had purchased it as a disused warehouse with the idea of converting it into an apartment building but had underestimated how much work it needed
+		- He had already gotten most of the planning/zoning permissions sorted
+	- She paid more than it was worth so that she could include the planning/zoning work that the seller had already done
+- After buying it she didn't move in for another year while she got the entire building renovated
+	- First she had the basement expanded into a full parking garage
+	- The building has 5 floors and each from the 2nd floor up was converted into a single apartment (4 apartments total)
+		- The building is big enough that each floor can accommodate:
+			- Large Kitchen with pantry
+			- Large Lounge
+			- 3 good sized bedrooms
+			- A large master bedroom with a walk-in closet and an en-suite
+			- 2 bathrooms
+			- laundry/utility room
+		- Miriam took the top floor for herself and converted the attic to be an office, a reading room which she filled with plants and a third room she uses for storage
+			- She had the south side of the roof in the attic replaced with windows
+- The building also has a communal garden and a large elevator (formerly the freight elevator)
+- Miriam gifted the apartment under hers to [[Freya Isaacs]] and plans to sell the remaining 2 to people she likes
+	- She had offered them to [[Calliope Torres]] and [[Miranda Bailey]] but neither accepted
+		- Bailey was set on her current home which was located in a middle ground between [[Seattle Grace]] and her husband's work
+		- Callie was happy in an apartment her dad got her and didn't think she had time to move
+- Miriam employs a dedicated cleaning and housekeeping service for the whole building
+	- they keep her plants healthy and go into the 2 unoccupied regularly to check them

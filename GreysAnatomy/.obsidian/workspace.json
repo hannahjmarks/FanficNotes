@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miriam Isaacs.md",
+                "file": "Characters/Miriam's Building.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miriam Isaacs"
+              "title": "Miriam's Building"
             }
           }
         ]
@@ -186,12 +186,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e597d2667a3bcc0c",
+  "active": "575ccb1ed045980d",
   "lastOpenFiles": [
+    "Plot",
+    "Characters/Freya Isaacs.md",
+    "Characters",
+    "Characters/Miriam Isaacs.md",
+    "Characters/Miriam's Building.md",
+    "Forester Holdings.md",
+    "Characters/Christian Isaacs.md",
+    "Characters/Michael Isaacs.md",
+    "Characters/Clara Isaacs.md",
     "Images",
     "Images/Christian.png",
     "Images/Freya.png",
-    "Images/Miriam.png",
-    "Miriam Isaacs.md"
+    "Images/Miriam.png"
   ]
 }

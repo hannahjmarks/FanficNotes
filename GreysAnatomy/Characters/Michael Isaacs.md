@@ -1,0 +1,12 @@
+
+- Widower to [[Clara Isaacs]]
+- Father to [[Miriam Isaacs]], [[Christian Isaacs]] and [[Freya Isaacs]]
+- Works as an Art Historian
+	- Sometimes gets asked to authenticate works for The National Gallery
+	- Mostly spends his days restoring artwork for private collectors in his workroom
+- Became very distant after Clara's death
+	- He still loves his children but has been suffering from depression since his wife's passing and threw himself into his work to distract himself
+		- This is a behaviour Miriam seems to have inherited
+- Freya's assault was a wake-up call for him
+	- he became much more present in his children's lives but still feels immensely guilty for missing so much
+		- while he feels that he is somewhat making up for being absent for Freya by being there now, he worries that Miriam's distance means that he won't get another chance to be in her life

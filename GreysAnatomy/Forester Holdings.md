@@ -1,0 +1,11 @@
+- A parent company to various shipping and logistics companies
+- Former CEOs:
+	- [[Clara Isaacs]]
+	- Adam Hall
+	- Robert Wilson
+- Current CEO - [[Christian Isaacs]]
+- Majority shareholders:
+	- [[Christian Isaacs]]
+	- [[Miriam Isaacs]]
+	- [[Freya Isaacs]]
+- Christian acts and votes on behalf of his sisters (with their full permission) though he does occasionally need their signatures on the more official documentation.

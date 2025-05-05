@@ -10,7 +10,9 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "Neuro": 1
+    "Neuro": 1,
+    "Deceased": 2,
+    "Psych": 3
   },
   "_version": 3
 }
