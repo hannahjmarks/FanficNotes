@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Miriam's Building.md",
+                "file": "Plot/Season 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miriam's Building"
+              "title": "Season 1"
             }
           }
         ]
@@ -186,13 +186,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "575ccb1ed045980d",
+  "active": "e597d2667a3bcc0c",
   "lastOpenFiles": [
+    "Plot/Season 2.md",
+    "Plot/Season 1.md",
+    "Characters/Miriam's Building.md",
     "Plot",
     "Characters/Freya Isaacs.md",
     "Characters",
     "Characters/Miriam Isaacs.md",
-    "Characters/Miriam's Building.md",
     "Forester Holdings.md",
     "Characters/Christian Isaacs.md",
     "Characters/Michael Isaacs.md",
