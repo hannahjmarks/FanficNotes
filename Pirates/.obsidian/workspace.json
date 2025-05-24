@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Film 1 Plot.md",
+                "file": "Characters/Alicia West.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Film 1 Plot"
+              "title": "Alicia West"
             }
           }
         ]
@@ -179,8 +179,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0669cfb6dd0d47a0",
+  "active": "af550df1cb0cf192",
   "lastOpenFiles": [
-    "Film 1 Plot.md"
+    "Images/Alicia West.png",
+    "Characters/Alicia West.md",
+    "Images",
+    "Film 1 Plot.md",
+    "Characters"
   ]
 }
