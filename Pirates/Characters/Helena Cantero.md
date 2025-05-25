@@ -1,0 +1,44 @@
+
+- [[Elia West]]'s Mother
+- Grew up in a wealthy merchant family
+	- Her father controlled several ports and while they were only distantly related to nobility the family enjoyed a luxurious lifestyle
+- Despite the comfort she grew up in Helena often found her father's rules too constricting
+	- Spain at the time was extremely catholic and had very restrictive standards and rules by which women especially had to live
+	- Helena's father insisted she be taught a variety of languages including English, French and Italian, as he viewed it as necessary for a merchant's wife, something he expected Helena to one-day become
+	- Helena was also taught to paint, embroider and to play the piano at the insistence of her mother.
+- Helena was 15 when she first met Johnathan
+	- She found the navy officer to be a breath of fresh air and his views on women to be a welcome change from the societal norm
+	- She quickly became attached to the idea of making her own life choices without simply having to follow along the path her parents laid out 
+		- The attachment to this idea swiftly became synonymous with an attachment to Johnathan
+- Johnathan had to leave again only a month or so after their first meeting but Helena made him promise to come back for her, that she would wait for him
+- It took Johnathan 3 years to return and in that time Helena had managed to skilfully deter any would be suitors
+	- Johnathan arrived on a trade ship this time with a limp and a cane to support his damaged left leg
+- Johnathan and Helena found their affections for one another had only grown in each other's absence
+	- Helena in particular was desperate for the taste of freedom he had provided now that she had been able to contrast him with all the potential matches she'd had to field, many of whom had been much too much like her father
+- Johnathan asked her father for permission to marry her not long after his arrival
+	- Her father's refusal was not at all surprising to Helena, she'd been planning to persuade Johnathan into eloping should the man return
+- She continued to see Johnathan, having learnt the best ways to sneak from the manor during his first visit
+- She seduced Johnathan and they laid together despite his hesitation at their unwed state
+- Shortly after she lied and told Johnathan that she was pregnant, thus convincing him to elope with her
+- Once they were married Helena ensured that she actually got pregnant, only viewing her deception as a necessary one to give Johnathan the push to get her out of what she had begun thinking of as a prison
+- Meeting Johnathan's family did not go as she had wanted
+	- She'd hoped that his family would share similar views to him and was bitterly disappointed to find herself rejected in such a manner
+- Her hope and happiness were rekindled once they'd moved to London and she found friends among the wives of Johnathan's navy comrades
+- As they lived in London Helena found herself starting to miss the comforts of her old life with her family
+	- She convinced Johnathan to hire a housekeeper and a cook, citing her pregnancy as the reason she couldn't fulfil the tasks
+	- Helena was also becoming a touch disillusioned with Johnathan, she was unsure if she loved him or not but was too wrapped up in her newfound freedom to care much
+- When Elia was born Helena was completely in love and she realised that even if she could never truly love Johnathan in the ways she'd read about in books that at least she would love their children
+	- The birth itself was hard on Helena and it took her a while to recover properly and longer still before she allowed Johnathan to sleep with her again
+- Johnathan's sudden death spelled disaster for Helena
+	- She was able to live off of his navy stipend but soon realised that she would have to find work as it was due to stop in just shy of a year
+- She did manage to find work but tensions grew between England and Spain once again, leading her to face mistreatment in the few jobs she was able to get
+- By the time Elia turned 4 Helena had succumbed to working at [[The Gilded Menagerie]] as a courtesan
+	- during the day she played the piano for their more polite clientele and at night she entertained the various men that would frequent the establishment
+- Helena was deeply unhappy with how her life was turning out and began drinking heavily
+	- She often took out her misery on Elia when she was particularly drunk
+		- This was only verbal, she never hit Elia which is how it went largely unnoticed
+- When [[The Madam]] took charge of Elia Helena found herself unable to truly care for some time
+- In her sober moments Helena would often break down crying and apologising to Elia for treating her so badly
+- There were other times when Helena would blame Elia for her misfortune
+- Helena had no more children after Elia 
+- Helena's drinking caught up to her 2 years after Elia left for Port Royal

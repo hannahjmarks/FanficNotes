@@ -1,0 +1,27 @@
+- [[Elia West]]'s Father
+- Grew up part of a middle class family boasting a long line of skilled carpenters, Johnathan was the third son and thus would inherit nothing
+- He joined the navy at 16 as a ship carpenter and eventually gained a good enough reputation that he was promoted to an officer
+- When he was 23 he met [[Helena Cantero]] when his ship was resupplying and being repaired at a port controlled by her father's merchant company
+	- Johnathan had rather different views on the treatment of women in society, he was extremely progressive for his time, believing that they should at least have a say in their own lives
+	- He largely kept these beliefs to himself, understanding that they would cause him no end of problems if they were to become public knowledge
+	- He did let them slip to Helena who quickly became entranced with the idea of having a say in her own marriage and life choices
+- The ship and it's crew remained docked there for a little over a month during which Johnathan and Helena fell in love
+- When Johnathan had to leave Helena was devastated and made him promise to return
+- 3 Years later Johnathan suffered an injury to his leg leading him to be honourably discharged and so he returned to Helena and found that she had refused all marriage proposals since meeting him.
+- Johnathan asked her father for his blessing to marry Helena, the Spaniard refused, as apparently he had no issues trading with and allowing English ships to dock (England and Spain were hostile to one another at the time) he would not accept an Englishman as a son in law
+- Upon her father's refusal Helena continued to see Johnathan in secret and Helena quickly fell pregnant.
+- They decided to elope and abscond to England 
+- The couple married aboard the ship taking them back to Britain and the newlyweds went to Johnathan's family
+	- Johnathan was excited to introduce his family to Helena whom he had spoken of many times since returning from the Navy
+	- Johnathan was not aware that his family had assumed Helena to be English
+- The reactions from Johnathan's family ranged from chilly to outright hostile, his mother in particular was from a family with a proud naval tradition and couldn't fathom her son marrying 'the enemy'
+- Dejected, Johnathan cut ties with his family and took Helena to London where he was able to find work as an artisanal carpenter, working on the elaborate decorative flourishes on the more impressive warships for both the Navy and the [[East India Trading Company]].
+	- His work tended to be centred around the captain's quarters
+- Things were going relatively well for Johnathan and Helena
+	- Johnathan had introduced Helena to the wives of several of his more openminded navy friends and she had integrated herself into their social circle
+	- Financially they had an income from Johnathan's current work and the stipend from the navy which would continue for another few years
+- Johnathan and Helena were overjoyed when Elia was born
+	- The couple intended to have more children once Helena had fully recovered from Elia's birth
+- Johnathan was killed when a joist snapped free of the ropes manoeuvring it into place
+	- His leg injury prevented him from getting out the way in time and he was crushed
+	- He died instantly
