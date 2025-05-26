@@ -1,0 +1,8 @@
+
+One of the most famous brothels in London, The Gilded Menagerie, mostly known as just The Menagerie, caters to only the upper echelons of London society. During the day it's main stage is occupied by the various musical talents of the several courtesans who both live and work there. By night the main stage hosts a far more debauched set of performances.
+
+The Menagerie's main draw is that it boasts at least one girl from almost every country in the known world and claimed to be able to satisfy even the most exotic of tastes. Additionally, it also had never produced an illegitimate child, the few children living there were brought in with their mothers. [[The Madam]] accomplished this by making sterilisation a requirement for working there as a courtesan.
+
+This reputation gave the wives of their night-time clientele enough security that many of them didn't mind their husbands frequenting the establishment. In fact, several of them preferred that their husbands go there as it kept them out of their bed. Their favour only increased when The Madam began hosting events during the day, the main stage held a more polite performance of dance, music or a combination of the two. Also, The Menagerie had always provided room or table service to it's evening patrons, so The Madam had the kitchens start opening early to provide for the day guests.
+
+This is how The Menagerie became what it is today, a popular restaurant and entertainment venue by day and a high class brothel by night.

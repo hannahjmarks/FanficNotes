@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Gilded Menagerie.md",
+                "file": "The Madam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Gilded Menagerie"
+              "title": "The Madam"
             }
           }
         ]
@@ -165,8 +165,12 @@
   },
   "active": "0669cfb6dd0d47a0",
   "lastOpenFiles": [
+    "Images/Helena Cantaro.png",
+    "Images/Johnathan West.png",
     "Characters/Elia West.md",
-    "The Gilded Menagerie.md",
+    "The Madam.md",
+    "Places/The Gilded Menagerie.md",
+    "Places",
     "Characters/Helena Cantero.md",
     "Characters/Johnathan West.md",
     "Images/Elia West.png",
